@@ -1,0 +1,126 @@
+
+[general]
+
+	[general.general]
+		track_griefers = true
+		party_transfer_command = false
+		debug = false
+		precision_miner_overlay = false
+		griefer_messages_everywhere = false
+		auto_renew_crystal_hollows_pass = true
+		old_heatmap = false
+		glacite_tunnels_waypoints = true
+		efficient_miner_overlay_v2 = true
+		hide_items = false
+
+	[general.marking]
+		marked_lobbies = false
+
+	[general.streamer_mode]
+		block_debug = true
+		disable_waypoints_on_death = true
+		streamer_mode = false
+		block_tab = true
+		block_bossbar = true
+		randomize_lobby = true
+
+	[general.pristine_sound]
+		low_proc = ""
+		proc_pitch = "1"
+		proc_sound = "random.orb"
+		proc_volume = "1"
+
+	[general.ranked_chat]
+		rank_chat = true
+		rank_everywhere = false
+
+[other]
+
+	[other.uyor]
+		corpse_finder = false
+		pest_finder = false
+
+	[other.normal_waypoints]
+		creeper_waypoints = false
+
+	[other.kuudra]
+		cells_alignment_tracker = false
+
+	[other.foraging]
+		treecap_timer = false
+
+	[other.dungeon]
+		m3_timer = false
+
+[stats]
+
+	[stats.stats]
+		tick_speed_block = 3
+		supercraft_amount = true
+		gemstone_mining_stats = true
+
+[gui]
+
+	[gui.powdertracker]
+		show_rates = true
+		show_powdertracker = false
+		show_totals = true
+
+	[gui.scrap_tracker]
+		scrap_tracker = false
+
+	[gui.timer]
+		timer = false
+		timer_end_visiblity = false
+
+	[gui.coleweight_tracker]
+		coleweight_tracker = false
+
+	[gui.metal_detector_solver]
+		metal_detector_solver = false
+		alert_tools = false
+		mute_metal_detector_sound = false
+
+	[gui.alloy_tracker]
+		alloy_tracker = false
+
+	[gui.collection]
+		collection_tracker = false
+
+	[gui.coin_tracker]
+		force_npc = false
+		gemstone_type = 2
+		coin_tracker = false
+
+	[gui.mining_abilities]
+		mining_abilities_selected_indicator = true
+		mining_abilities = false
+		mining_abilities_gui = false
+
+	[gui.stopwatch]
+		stopwatch = false
+
+[waypoints]
+
+	[waypoints.normal_waypoints]
+		show_box = false
+		show_normal_waypoint_distance = true
+		show_horizontal_distance = false
+		show_line = false
+
+	[waypoints.ordered_waypoints]
+		ordered_next_color = "255,255,255,0"
+		show_text = true
+		ordered_waypoints_line = true
+		ordered_line_color = "255,0,255,0"
+		setup_line_thickness = 100
+		next_waypoint_distance = 3
+		ordered_trace_line_thickness = 3
+		setup_mode = false
+		ordered_previous_color = "255,0,0,255"
+		ordered_current_color = "255,0,255,0"
+
+	[waypoints.naturals]
+		show_naturals = false
+		natural_range = 32
+
