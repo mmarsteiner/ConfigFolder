@@ -1,0 +1,27 @@
+
+# Theme by AzuredBlue
+[color_scheme]
+
+	[color_scheme.palette]
+		bright_divider = "255,151,151,151"
+		mid_text = "255,212,212,212"
+		bright_highlight = "255,50,50,50"
+		search_bar_background = "0,27,28,33"
+		light_background = "255,32,32,33"
+		bright_text = "255,0,255,250"
+		dark_divider = "255,0,122,120"
+		dark_highlight = "255,27,28,33"
+		dark_text = "255,118,118,118"
+		accent = "255,0,255,226"
+		transparent = "0,0,0,0"
+		modal_background = "100,0,0,0"
+		highlight = "255,3,107,145"
+		outline = "255,0,249,232"
+		divider = "255,0,194,200"
+		background = "0,0,0,0"
+		success = "255,0,255,250"
+		scroll_bar = "255,0,149,192"
+		dark_background = "255,0,0,0"
+		warning = "255,239,83,80"
+		disabled = "255,80,80,80"
+

@@ -1,0 +1,45 @@
+
+[animations]
+
+	[animations.world]
+		debug_hitbox = true
+
+		[animations.world.1]
+			7_debug_hitbox = true
+
+	[animations.hud]
+		remove_health_bar_flashing = true
+		debug_screen = true
+		tab_overlay = false
+
+		[animations.hud.1]
+			7_health_bar = true
+			7_debug_screen = true
+
+	[animations.interaction]
+		item_switching_animation = true
+		consume_animation = true
+		smooth_sneaking = true
+		longer_unsneak = true
+		red_armor = true
+		block-hitting_animation = true
+		punching_during_usage = true
+
+		[animations.interaction.1]
+			7_block_hitting = true
+			7_eating = true
+			7_sneaking = true
+			7_swing_animation = true
+
+	[animations.position]
+
+		[animations.position.1]
+			7_3rd_person_block_animation = true
+			7_blocking = true
+			7_item_held = true
+			7_item_positions = true
+			7_bow_pullback = true
+			7_rod_position = true
+			7_bow_position = true
+			7_block_animation = true
+
