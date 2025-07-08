@@ -224,8 +224,8 @@
 		vanquisher_detection_sound = false
 		vanquisher_auto-warp = ""
 		vanquisher_detection = true
-		announce_vanquisher_chat = 1
-		vanquisher_counter = 1
+		announce_vanquisher_chat = 0
+		vanquisher_counter = 0
 
 	[crimson_isles.vanquisher_alert]
 		vanquisher_detection_sound = true

@@ -176,8 +176,8 @@
       },
       "unknownLinesWarning": true,
       "position": {
-        "x": 840,
-        "y": 145,
+        "x": 841,
+        "y": 150,
         "scale": 1.0,
         "centerX": false,
         "centerY": true,
@@ -4691,18 +4691,18 @@
               },
               "COMBAT": {
                 "level": 60,
-                "totalXp": 302739475,
-                "currentXp": 191067050,
+                "totalXp": 308256690,
+                "currentXp": 196584265,
                 "currentXpMax": 0,
                 "overflowLevel": 75,
-                "overflowCurrentXp": 8067050,
-                "overflowTotalXp": 191067050,
+                "overflowCurrentXp": 13584265,
+                "overflowTotalXp": 196584265,
                 "overflowCurrentXpMax": 19600000,
-                "lastGain": "1,050.7",
+                "lastGain": "3,152.2",
                 "customGoalLevel": 0
               }
             },
-            "totalSkyBlockXP": 37646,
+            "totalSkyBlockXP": 37701,
             "ghostStorage": {
               "ghostTracker": {
                 "kills": 0,
@@ -4963,7 +4963,7 @@
               },
               "mealLastFound": {},
               "mealNextSpawn": {},
-              "hotChocolateMixinExpiry": 0,
+              "hotChocolateMixinExpiry": 1752513074213,
               "hitmanStats": {
                 "availableHitmanEggs": 0,
                 "singleSlotCooldownMark": 1746206415888,
@@ -5196,6 +5196,34 @@
                 }
               },
               "429": {
+                "mealsFound": {},
+                "rabbitsFound": {},
+                "dupeChocolateGained": 0,
+                "strayChocolateGained": 0,
+                "rabbitTheFishFinds": 0,
+                "millisInCf": 0,
+                "initialLeaderboardPosition": {
+                  "position": -1,
+                  "percentile": -1.0
+                },
+                "finalLeaderboardPosition": {
+                  "position": -1,
+                  "percentile": -1.0
+                },
+                "lastLbUpdate": 0,
+                "summarized": true,
+                "typeCountSnapshot": {
+                  "uniques": 67,
+                  "dupes": 9,
+                  "strays": 13
+                },
+                "typeCountsSince": {
+                  "uniques": 0,
+                  "dupes": 0,
+                  "strays": 0
+                }
+              },
+              "430": {
                 "mealsFound": {},
                 "rabbitsFound": {},
                 "dupeChocolateGained": 0,
@@ -6675,7 +6703,7 @@
             "slayerProfitData": {
               "Inferno Demonlord IV": {
                 "slayerSpawnCost": -1419192,
-                "slayerCompletedCount": 271,
+                "slayerCompletedCount": 277,
                 "items": {
                   "MANA_DISINTEGRATOR": {
                     "timesGained": 1,
@@ -6707,7 +6735,7 @@
             },
             "slayerRngMeter": {
               "Inferno Demonlord": {
-                "currentMeter": 61000,
+                "currentMeter": 36500,
                 "gainPerBoss": 500,
                 "goalNeeded": 230240,
                 "itemGoal": "§f§f§6High Class Archfiend Dice"
@@ -6725,7 +6753,7 @@
                 "itemGoal": "§5McGrubber\u0027s Burger"
               }
             },
-            "currentPet": "§6Golden Dragon",
+            "currentPet": "§6Skeleton",
             "stats": {
               "HEALTH_REGEN": 265.0,
               "MINING_SPEED": 3328.0,
@@ -6733,12 +6761,12 @@
               "SWING_RANGE": 4.0,
               "PRISTINE": 1.4,
               "MINING_FORTUNE": 572.0,
-              "SPEED": 196.82,
+              "SPEED": 200.0,
               "FISHING_SPEED": 35.0,
               "FORAGING_FORTUNE": 568.81,
-              "STRENGTH": 1214.25,
-              "CRIT_CHANCE": 138.0,
-              "CRIT_DAMAGE": 1218.0,
+              "STRENGTH": 849.0,
+              "CRIT_CHANCE": 150.0,
+              "CRIT_DAMAGE": 1238.0,
               "BONUS_ATTACK_SPEED": 36.0,
               "DEFENSE": 986.77,
               "BONUS_PEST_CHANCE": 60.0,
@@ -6796,8 +6824,8 @@
               "arrowAmount": {}
             },
             "bits": {
-              "bits": 715,
-              "bitsAvailable": 0,
+              "bits": 6416,
+              "bitsAvailable": -5701,
               "boosterCookieExpiryTime": 1751940422704
             },
             "godPotExpiry": 0,
