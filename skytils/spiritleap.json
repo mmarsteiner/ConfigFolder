@@ -1,0 +1,20 @@
+{
+  "classes": {
+    "ARCHER": {
+      "enabled": true
+    },
+    "BERSERK": {
+      "enabled": false
+    },
+    "MAGE": {
+      "enabled": false
+    },
+    "HEALER": {
+      "enabled": false
+    },
+    "TANK": {
+      "enabled": false
+    }
+  },
+  "users": {}
+}

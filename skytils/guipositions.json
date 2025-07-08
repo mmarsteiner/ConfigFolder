@@ -1,0 +1,180 @@
+{
+    "Players In Range Display": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "Necron Phase Timer": {
+        "x": 0.78541666,
+        "y": 0.23
+    },
+    "Soulflow Display": {
+        "x": 0.65,
+        "y": 0.85
+    },
+    "Endstone Protector Spawn Timer": {
+        "x": 0.625,
+        "y": 0.083333336
+    },
+    "Container Sell Value": {
+        "x": 0.258,
+        "y": 0.283
+    },
+    "Livid HP": {
+        "x": 0.05,
+        "y": 0.4
+    },
+    "Arrow Swapper Display": {
+        "x": 0.65,
+        "y": 0.85
+    },
+    "Dolphin Pet Display": {
+        "x": 0.20833333,
+        "y": 0.083333336
+    },
+    "Stacking Enchant Display": {
+        "x": 0.65,
+        "y": 0.85
+    },
+    "Placed Summoning Eye Display": {
+        "x": 0.20833333,
+        "y": 0.25
+    },
+    "Rain Timer": {
+        "x": 0.041666668,
+        "y": 0.041666668
+    },
+    "Legion Player Display": {
+        "x": 0.9125,
+        "y": 0.5825
+    },
+    "Dungeon Timer": {
+        "x": 0.884375,
+        "y": 0.20666666
+    },
+    "Griffin Timer": {
+        "x": 0.41666666,
+        "y": 0.041666668
+    },
+    "Seraph Display": {
+        "x": 0.083333336,
+        "y": 0.083333336
+    },
+    "Trophy Fish Display": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "Hidden Jerry Timer": {
+        "x": 0.041666668,
+        "y": 0.041666668
+    },
+    "Wither Shield Display": {
+        "x": 0.65,
+        "y": 0.85
+    },
+    "Dungeon Map": {
+        "x": 0.009895833,
+        "y": 0.24583334
+    },
+    "Spirit Bear Spawn Timer": {
+        "x": 0.05,
+        "y": 0.4
+    },
+    "Show Arachne HP": {
+        "x": 0.8333333,
+        "y": 0.125
+    },
+    "Dungeon Crypts Counter": {
+        "x": 0.8333333,
+        "y": 0.8333333,
+        "scale": 2.0
+    },
+    "Sadan Phase Timer": {
+        "x": 0.8333333,
+        "y": 0.5
+    },
+    "Guardian Respawn Timer": {
+        "x": 0.8333333,
+        "y": 0.125
+    },
+    "Dungeon Secret Display": {
+        "x": 0.05,
+        "y": 0.4
+    },
+    "Kuudra Chest Profit": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "Dungeon Chest Profit": {
+        "x": 0.721875,
+        "y": 0.4425
+    },
+    "Dungeon Score Estimate": {
+        "x": 0.8333333,
+        "y": 0.41666666
+    },
+    "Slayer Armor Display": {
+        "x": 0.625,
+        "y": 0.083333336
+    },
+    "Totem Display": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "Mayor Jerry Tracker": {
+        "x": 0.625,
+        "y": 0.5
+    },
+    "Show Giant HP": {
+        "x": 0.8484375,
+        "y": 0.6166667
+    },
+    "Quiver Display": {
+        "x": 0.05,
+        "y": 0.4
+    },
+    "Mayor Jerry Perk Display": {
+        "x": 0.041666668,
+        "y": 0.041666668
+    },
+    "Slayer Display": {
+        "x": 0.625,
+        "y": 0.083333336
+    },
+    "Jamcat": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "Visitor Offer Helper": {
+        "x": 0.258,
+        "y": 0.283
+    },
+    "Selected Arrow Display": {
+        "x": 0.65,
+        "y": 0.85
+    },
+    "Spam Gui": {
+        "x": 0.65,
+        "y": 0.925
+    },
+    "Crystal Hollows Map": {
+        "x": 0.0296875,
+        "y": 0.25666666,
+        "scale": 1.8387097
+    },
+    "Mythological Tracker": {
+        "x": 0.625,
+        "y": 0.5
+    },
+    "World Age Display": {
+        "x": 0.20833333,
+        "y": 0.25
+    },
+    "Item Cooldown Display": {
+        "x": 0.46875,
+        "y": 0.5208333
+    },
+    "Ping Display": {
+        "x": 0.041666668,
+        "y": 0.041666668
+    }
+}

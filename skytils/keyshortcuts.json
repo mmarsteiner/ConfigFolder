@@ -1,0 +1,26 @@
+[
+    {
+        "message": "/wardrobe",
+        "keyCode": 41
+    },
+    {
+        "message": "/f7",
+        "keyCode": 208
+    },
+    {
+        "message": "/play sb",
+        "keyCode": 79
+    },
+    {
+        "message": "/trades",
+        "keyCode": 81
+    },
+    {
+        "message": "/eq",
+        "keyCode": 49
+    },
+    {
+        "message": "/p warp",
+        "keyCode": 80
+    }
+]

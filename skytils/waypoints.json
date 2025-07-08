@@ -1,0 +1,208 @@
+{
+    "categories": [
+        {
+            "name": "Supply Safe Spots",
+            "waypoints": [
+                {
+                    "name": "Square",
+                    "x": -141,
+                    "y": 76,
+                    "z": -90,
+                    "enabled": true,
+                    "addedAt": 1674946114146
+                },
+                {
+                    "name": "Start Triangle",
+                    "x": -68,
+                    "y": 76,
+                    "z": -122,
+                    "enabled": true,
+                    "addedAt": 1674946346144
+                },
+                {
+                    "name": "Triangle",
+                    "x": -90,
+                    "y": 77,
+                    "z": -128,
+                    "enabled": true,
+                    "addedAt": 1674946117423
+                }
+            ],
+            "island": ""
+        },
+        {
+            "name": "Decoy Spots",
+            "waypoints": [
+            ],
+            "island": "dungeon"
+        },
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "Dude",
+                    "x": -305,
+                    "y": 68,
+                    "z": -304,
+                    "enabled": true,
+                    "addedAt": 1734284603872
+                }
+            ],
+            "island": "combat_1"
+        },
+        {
+            "name": "Gyro Spots",
+            "waypoints": [
+                {
+                    "name": "O",
+                    "x": 84,
+                    "y": 5,
+                    "z": 59,
+                    "enabled": false,
+                    "color": -18432,
+                    "addedAt": 1678578383385
+                },
+                {
+                    "name": "B",
+                    "x": 83,
+                    "y": 5,
+                    "z": 104,
+                    "enabled": false,
+                    "color": -16750849,
+                    "addedAt": 1678578917883
+                },
+                {
+                    "name": "G",
+                    "x": 25,
+                    "y": 5,
+                    "z": 81,
+                    "enabled": false,
+                    "color": -16711871,
+                    "addedAt": 1678578042281
+                },
+                {
+                    "name": "R",
+                    "x": 32,
+                    "y": 19,
+                    "z": 59,
+                    "enabled": false,
+                    "addedAt": 1678579770336
+                }
+            ],
+            "island": "dungeon"
+        },
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "",
+                    "x": -110,
+                    "y": 15,
+                    "z": -187,
+                    "enabled": true,
+                    "addedAt": 1751898035333
+                }
+            ],
+            "island": "mineshaft"
+        },
+        {
+            "name": "Stack/shoot",
+            "waypoints": [
+            ],
+            "island": "dungeon"
+        },
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "",
+                    "x": 638,
+                    "y": 62,
+                    "z": 434,
+                    "enabled": true,
+                    "addedAt": 1704291527126
+                }
+            ],
+            "island": "crystal_hollows"
+        },
+        {
+            "name": "Fuel Cell Safe Spots",
+            "waypoints": [
+                {
+                    "name": "Triangle 2.0",
+                    "x": -81,
+                    "y": 77,
+                    "z": -133,
+                    "enabled": true,
+                    "color": -15466241,
+                    "addedAt": 1674946504224
+                },
+                {
+                    "name": "X",
+                    "x": -125,
+                    "y": 77,
+                    "z": -136,
+                    "enabled": true,
+                    "color": -15466241,
+                    "addedAt": 1674946322520
+                },
+                {
+                    "name": "Square",
+                    "x": -141,
+                    "y": 76,
+                    "z": -90,
+                    "enabled": true,
+                    "color": -15466241,
+                    "addedAt": 1674946285173
+                },
+                {
+                    "name": "X 2.0",
+                    "x": -135,
+                    "y": 75,
+                    "z": -123,
+                    "enabled": true,
+                    "color": -15466241,
+                    "addedAt": 1674946403726
+                },
+                {
+                    "name": "Triangle ",
+                    "x": -70,
+                    "y": 77,
+                    "z": -121,
+                    "enabled": true,
+                    "color": -15466241,
+                    "addedAt": 1674946455221
+                }
+            ],
+            "island": ""
+        },
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "Queen Nyx",
+                    "x": -117,
+                    "y": 105,
+                    "z": -754,
+                    "enabled": true,
+                    "addedAt": 1705883948396
+                }
+            ],
+            "island": "crimson_isle"
+        },
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "Thing",
+                    "x": 175,
+                    "y": 44,
+                    "z": -470,
+                    "enabled": true,
+                    "addedAt": 1739242151016
+                }
+            ],
+            "island": "farming_1"
+        }
+    ]
+}

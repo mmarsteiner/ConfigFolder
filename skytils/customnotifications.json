@@ -1,0 +1,20 @@
+[
+    {
+        "regex": "⚠ Maxor is enraged! ⚠",
+        "text": "wish",
+        "ticks": 20,
+        "enabled": true
+    },
+    {
+        "regex": "is now available!",
+        "text": "Pickobulus",
+        "ticks": 20,
+        "enabled": true
+    },
+    {
+        "regex": "Commission Complete",
+        "text": "Commission",
+        "ticks": 20,
+        "enabled": true
+    }
+]
